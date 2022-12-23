@@ -31,5 +31,5 @@ void main(){
   stdout.write("my company name  is $company \n"
   "company score is  $score \n"
   "The average candidate are $avg \n"
-  "The above data is valid $isValid");jdhghd
+  "The above data is valid $isValid");jdhghdv 
 }
